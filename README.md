@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, Res 👋
 
 <!--
+res for resonance as in are we resonating, are we on the same plane
 **wannj-Dennis/wannj-Dennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
